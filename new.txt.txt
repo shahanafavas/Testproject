@@ -1,4 +1,8 @@
-hello
+
+this project helps to study git commands
+
+
+This is my git testhello
 hi friends
 my name is Shahanas
 hello friends
